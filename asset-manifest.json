@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/El-Glory/React-calculator.git/static/css/main.7c6b3edf.chunk.css",
+    "main.js": "/El-Glory/React-calculator.git/static/js/main.91dbe170.chunk.js",
+    "main.js.map": "/El-Glory/React-calculator.git/static/js/main.91dbe170.chunk.js.map",
+    "runtime-main.js": "/El-Glory/React-calculator.git/static/js/runtime-main.f557a5bd.js",
+    "runtime-main.js.map": "/El-Glory/React-calculator.git/static/js/runtime-main.f557a5bd.js.map",
+    "static/js/2.4ed6764d.chunk.js": "/El-Glory/React-calculator.git/static/js/2.4ed6764d.chunk.js",
+    "static/js/2.4ed6764d.chunk.js.map": "/El-Glory/React-calculator.git/static/js/2.4ed6764d.chunk.js.map",
+    "index.html": "/El-Glory/React-calculator.git/index.html",
+    "precache-manifest.546abd125fb43dafb6dae47e3301966b.js": "/El-Glory/React-calculator.git/precache-manifest.546abd125fb43dafb6dae47e3301966b.js",
+    "service-worker.js": "/El-Glory/React-calculator.git/service-worker.js",
+    "static/css/main.7c6b3edf.chunk.css.map": "/El-Glory/React-calculator.git/static/css/main.7c6b3edf.chunk.css.map",
+    "static/js/2.4ed6764d.chunk.js.LICENSE.txt": "/El-Glory/React-calculator.git/static/js/2.4ed6764d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f557a5bd.js",
+    "static/js/2.4ed6764d.chunk.js",
+    "static/css/main.7c6b3edf.chunk.css",
+    "static/js/main.91dbe170.chunk.js"
+  ]
+}
